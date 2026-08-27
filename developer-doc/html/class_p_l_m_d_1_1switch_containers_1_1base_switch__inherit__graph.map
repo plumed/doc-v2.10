@@ -1,0 +1,25 @@
+<map id="PLMD::switchContainers::baseSwitch" name="PLMD::switchContainers::baseSwitch">
+<area shape="rect" id="Node000001" title="container for the actual switching function used by PLMD::SwitchingFunction" alt="" coords="5,325,184,365"/>
+<area shape="rect" id="Node000002" href="$class_p_l_m_d_1_1switch_containers_1_1cosinus_switch.html" title=" " alt="" coords="240,5,419,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="100,311,115,256,141,187,178,117,202,84,230,55,248,43,251,48,234,59,206,88,183,120,145,190,120,258,105,313"/>
+<area shape="rect" id="Node000003" href="$class_p_l_m_d_1_1switch_containers_1_1cubic_switch.html" title=" " alt="" coords="240,69,419,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="105,311,123,268,150,216,186,164,230,119,250,107,252,112,234,123,190,168,155,219,128,270,110,313"/>
+<area shape="rect" id="Node000004" href="$class_p_l_m_d_1_1switch_containers_1_1exponential_switch.html" title=" " alt="" coords="240,133,419,173"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="113,312,161,247,194,213,231,183,252,171,255,176,233,188,197,217,165,251,117,315"/>
+<area shape="rect" id="Node000005" href="$class_p_l_m_d_1_1switch_containers_1_1fast_gaussian_switch.html" title=" " alt="" coords="240,197,419,237"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="129,314,176,280,231,247,258,235,260,240,233,252,179,284,132,319"/>
+<area shape="rect" id="Node000006" href="$class_p_l_m_d_1_1switch_containers_1_1fixed_rational.html" title=" " alt="" coords="240,261,419,301"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="181,319,255,299,256,304,182,324"/>
+<area shape="rect" id="Node000007" href="$class_p_l_m_d_1_1switch_containers_1_1gaussian_switch.html" title=" " alt="" coords="240,325,419,365"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="198,343,240,343,240,348,198,348"/>
+<area shape="rect" id="Node000008" href="$class_p_l_m_d_1_1switch_containers_1_1lepton_switch.html" title=" " alt="" coords="240,389,419,429"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="182,366,256,387,255,392,181,372"/>
+<area shape="rect" id="Node000009" href="$class_p_l_m_d_1_1switch_containers_1_1nativeq_switch.html" title=" " alt="" coords="240,453,419,493"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="132,372,179,406,233,439,260,451,258,456,231,444,176,411,129,376"/>
+<area shape="rect" id="Node000010" href="$class_p_l_m_d_1_1switch_containers_1_1rational.html" title=" " alt="" coords="232,517,427,557"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="117,375,165,440,197,474,233,503,255,515,252,520,231,508,194,478,161,443,113,378"/>
+<area shape="rect" id="Node000011" href="$class_p_l_m_d_1_1switch_containers_1_1smap_switch.html" title=" " alt="" coords="240,581,419,621"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="110,377,128,421,155,472,190,523,234,567,252,579,250,584,230,571,186,526,150,474,123,423,105,380"/>
+<area shape="rect" id="Node000012" href="$class_p_l_m_d_1_1switch_containers_1_1tanh_switch.html" title=" " alt="" coords="240,645,419,685"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="105,378,120,433,145,501,183,571,206,603,234,631,251,643,248,647,230,635,202,607,178,574,141,503,115,435,100,379"/>
+</map>

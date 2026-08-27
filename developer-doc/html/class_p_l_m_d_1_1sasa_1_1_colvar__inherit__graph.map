@@ -1,0 +1,100 @@
+<map id="PLMD::sasa::Colvar" name="PLMD::sasa::Colvar">
+<area shape="rect" id="Node000001" title="This is the abstract base class to use for implementing new collective variables, within it there is ..." alt="" coords="384,967,531,992"/>
+<area shape="rect" id="Node000005" href="$class_p_l_m_d_1_1colvar_1_1_angle.html" title="Provides the keyword ANGLE_SCALAR" alt="" coords="624,5,776,31"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="458,953,471,759,496,468,513,322,532,192,553,94,564,61,577,40,598,25,623,16,624,21,600,29,581,44,569,63,558,96,537,193,518,322,501,469,476,759,463,953"/>
+<area shape="rect" id="Node000006" href="$class_p_l_m_d_1_1colvar_1_1_cell.html" title="Provides the keyword CELL" alt="" coords="630,55,770,80"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="456,953,457,780,461,655,470,520,484,385,506,261,520,206,536,159,555,119,577,89,601,73,629,64,631,69,603,77,581,93,560,122,541,161,525,208,511,262,490,386,475,520,467,655,462,780,461,953"/>
+<area shape="rect" id="Node000007" href="$class_p_l_m_d_1_1colvar_1_1_colvar_fake.html" title="Provides the keyword FAKE" alt="" coords="607,104,793,129"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="456,953,458,789,464,671,473,544,488,416,509,300,523,249,538,204,556,167,577,139,605,120,608,125,580,143,561,170,543,206,528,250,514,301,493,417,478,544,469,671,464,789,461,953"/>
+<area shape="rect" id="Node000008" href="$class_p_l_m_d_1_1colvar_1_1_contact_map.html" title="Provides the keyword CONTACTMAP" alt="" coords="603,153,797,179"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="456,953,460,797,476,567,491,448,512,339,540,249,557,214,577,188,602,171,605,176,581,192,562,217,545,251,517,340,496,449,481,568,465,797,461,953"/>
+<area shape="rect" id="Node000009" href="$class_p_l_m_d_1_1colvar_1_1_coordination_base.html" title=" " alt="" coords="585,203,815,228"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="456,953,462,805,479,590,494,479,515,378,542,294,558,262,577,237,591,226,595,230,581,241,563,265,547,296,520,379,500,480,484,591,467,806,462,953"/>
+<area shape="rect" id="Node000013" href="$class_p_l_m_d_1_1colvar_1_1_dihedral_correlation.html" title="Provides the keyword DIHEDRAL_CORRELATION_SCALAR" alt="" coords="579,252,821,277"/>
+<area shape="poly" id="edge13_Node000001_Node000013" title=" " alt="" coords="457,953,464,815,482,614,498,511,518,417,544,339,559,309,577,287,591,275,595,280,581,291,564,312,549,341,523,418,503,512,488,615,469,815,462,953"/>
+<area shape="rect" id="Node000014" href="$class_p_l_m_d_1_1colvar_1_1_dimer.html" title="Provides the keyword &lt;a href=&quot;../../user&#45;doc/html/_&quot;_d_i_m_e_r.html&quot;&gt; &quot;DIMER" alt="" coords="623,301,777,327"/>
+<area shape="poly" id="edge14_Node000001_Node000014" title=" " alt="" coords="457,952,466,822,485,637,501,542,521,455,546,384,561,357,577,336,598,321,621,313,623,318,600,326,581,340,565,360,551,387,526,457,506,543,491,638,471,823,462,953"/>
+<area shape="rect" id="Node000015" href="$class_p_l_m_d_1_1colvar_1_1_dipole.html" title="Provides the keyword DIPOLE_SCALAR" alt="" coords="621,351,779,376"/>
+<area shape="poly" id="edge15_Node000001_Node000015" title=" " alt="" coords="458,952,467,831,489,661,504,574,524,495,548,430,562,404,577,385,597,371,620,363,622,368,599,376,581,389,566,407,553,432,529,496,510,575,494,662,473,832,463,953"/>
+<area shape="rect" id="Node000016" href="$class_p_l_m_d_1_1colvar_1_1_distance.html" title="Provides the keyword DISTANCE_SCALAR" alt="" coords="614,400,786,425"/>
+<area shape="poly" id="edge16_Node000001_Node000016" title=" " alt="" coords="458,953,469,841,492,685,508,606,527,534,550,475,563,452,577,435,594,422,613,414,615,419,596,427,581,439,567,455,555,477,532,535,513,607,497,686,475,841,463,953"/>
+<area shape="rect" id="Node000017" href="$class_p_l_m_d_1_1colvar_1_1_e_e_f_solv.html" title="Provides the keyword EEFSOLV" alt="" coords="617,449,783,475"/>
+<area shape="poly" id="edge17_Node000001_Node000017" title=" " alt="" coords="459,953,472,850,495,709,511,638,530,573,552,520,577,484,595,471,615,463,617,468,597,476,581,488,557,523,535,575,516,639,501,710,477,851,464,953"/>
+<area shape="rect" id="Node000018" href="$class_p_l_m_d_1_1colvar_1_1_e_r_m_s_d.html" title="Provides the keyword ERMSD" alt="" coords="619,499,781,524"/>
+<area shape="poly" id="edge18_Node000001_Node000018" title=" " alt="" coords="460,953,474,859,499,734,515,671,533,613,554,567,577,535,596,521,617,513,619,518,598,526,581,539,559,569,538,615,520,672,504,735,479,860,465,953"/>
+<area shape="rect" id="Node000019" href="$class_p_l_m_d_1_1colvar_1_1_gyration.html" title="Provides the keyword GYRATION_FAST" alt="" coords="615,548,785,573"/>
+<area shape="poly" id="edge19_Node000001_Node000019" title=" " alt="" coords="456,953,459,879,475,780,490,726,511,674,540,626,577,584,594,572,613,564,615,569,597,577,580,588,544,629,516,677,495,728,480,781,464,880,461,953"/>
+<area shape="rect" id="Node000020" href="$class_p_l_m_d_1_1colvar_1_1_p_c_a_r_m_s_d.html" title="Provides the keyword PCARMSD" alt="" coords="610,597,790,623"/>
+<area shape="poly" id="edge20_Node000001_Node000020" title=" " alt="" coords="457,953,463,888,482,801,497,755,517,711,544,669,577,633,608,615,611,620,580,637,548,672,522,713,502,757,487,803,469,889,462,953"/>
+<area shape="rect" id="Node000021" href="$class_p_l_m_d_1_1colvar_1_1_path_m_s_d_base.html" title=" " alt="" coords="597,647,803,672"/>
+<area shape="poly" id="edge21_Node000001_Node000021" title=" " alt="" coords="459,952,468,896,489,822,504,784,523,747,548,712,577,683,597,670,600,674,580,687,552,716,528,749,509,786,494,824,473,897,464,953"/>
+<area shape="rect" id="Node000024" href="$class_p_l_m_d_1_1colvar_1_1_plane.html" title="Provides the keyword PLANE_SCALAR" alt="" coords="625,696,775,721"/>
+<area shape="poly" id="edge24_Node000001_Node000024" title=" " alt="" coords="461,952,474,904,496,844,529,783,551,756,577,732,599,719,623,711,625,716,601,724,580,736,555,759,534,786,501,847,479,906,466,954"/>
+<area shape="rect" id="Node000025" href="$class_p_l_m_d_1_1colvar_1_1_position.html" title="Provides the keyword POSITION_SCALAR" alt="" coords="617,745,783,771"/>
+<area shape="poly" id="edge25_Node000001_Node000025" title=" " alt="" coords="464,953,480,914,503,867,536,820,577,781,615,764,617,769,580,786,540,824,508,870,485,916,469,955"/>
+<area shape="rect" id="Node000026" href="$class_p_l_m_d_1_1colvar_1_1_projection_on_axis.html" title="Provides the keyword PROJECTION_ON_AXIS" alt="" coords="610,795,790,835"/>
+<area shape="poly" id="edge26_Node000001_Node000026" title=" " alt="" coords="472,953,515,899,545,871,577,846,609,832,611,836,580,851,548,875,519,903,477,957"/>
+<area shape="rect" id="Node000027" href="$class_p_l_m_d_1_1colvar_1_1_puckering.html" title="Provides the keyword PUCKERING" alt="" coords="611,860,789,885"/>
+<area shape="poly" id="edge27_Node000001_Node000027" title=" " alt="" coords="483,955,526,924,578,896,616,883,618,888,580,900,528,929,486,960"/>
+<area shape="rect" id="Node000028" href="$class_p_l_m_d_1_1colvar_1_1_r_m_s_d.html" title="Provides the keyword RMSD_SCALAR" alt="" coords="623,909,777,935"/>
+<area shape="poly" id="edge28_Node000001_Node000028" title=" " alt="" coords="517,960,578,945,634,932,636,937,579,950,518,966"/>
+<area shape="rect" id="Node000029" href="$class_p_l_m_d_1_1colvar_1_1_select_mass_charge.html" title="Provides the keyword MASS_SCALAR" alt="" coords="605,959,795,999"/>
+<area shape="poly" id="edge29_Node000001_Node000029" title=" " alt="" coords="544,977,605,977,605,982,544,982"/>
+<area shape="rect" id="Node000030" href="$class_p_l_m_d_1_1colvar_1_1_template.html" title="Provides the keyword TEMPLATE" alt="" coords="613,1024,787,1049"/>
+<area shape="poly" id="edge30_Node000001_Node000030" title=" " alt="" coords="518,993,579,1009,636,1021,634,1026,578,1014,517,998"/>
+<area shape="rect" id="Node000031" href="$class_p_l_m_d_1_1colvar_1_1_torsion.html" title="Provides the keyword TORSION_SCALAR" alt="" coords="619,1073,781,1099"/>
+<area shape="poly" id="edge31_Node000001_Node000031" title=" " alt="" coords="485,999,528,1031,580,1060,620,1072,618,1077,578,1064,525,1035,482,1003"/>
+<area shape="rect" id="Node000032" href="$class_p_l_m_d_1_1colvar_1_1_volume.html" title="Provides the keyword VOLUME" alt="" coords="618,1123,782,1148"/>
+<area shape="poly" id="edge32_Node000001_Node000032" title=" " alt="" coords="476,1002,518,1057,547,1086,580,1109,618,1124,616,1129,577,1114,544,1090,514,1061,472,1006"/>
+<area shape="rect" id="Node000033" href="$class_p_l_m_d_1_1crystdistrib_1_1_quaternion.html" title="Provides the keyword QUATERNION_SCALAR" alt="" coords="630,1173,770,1213"/>
+<area shape="poly" id="edge33_Node000001_Node000033" title=" " alt="" coords="471,1004,487,1039,511,1081,542,1123,580,1159,604,1172,630,1181,629,1186,602,1177,577,1163,538,1127,507,1084,482,1042,466,1006"/>
+<area shape="rect" id="Node000034" href="$class_p_l_m_d_1_1funnel_1_1_f_u_n_n_e_l___p_s.html" title="Provides the keyword FUNNEL_PS" alt="" coords="604,1237,796,1263"/>
+<area shape="poly" id="edge34_Node000001_Node000034" title=" " alt="" coords="466,1005,479,1053,501,1112,534,1172,555,1199,580,1223,605,1236,603,1241,577,1227,551,1203,529,1175,496,1114,474,1054,461,1006"/>
+<area shape="rect" id="Node000035" href="$class_p_l_m_d_1_1isdb_1_1_b_a_i_e_s.html" title="Provides the keyword BAIES" alt="" coords="630,1287,770,1312"/>
+<area shape="poly" id="edge35_Node000001_Node000035" title=" " alt="" coords="464,1005,473,1062,493,1135,508,1173,528,1210,551,1244,580,1273,604,1287,630,1295,629,1300,602,1292,577,1277,547,1248,523,1213,503,1176,488,1137,468,1063,459,1006"/>
+<area shape="rect" id="Node000036" href="$class_p_l_m_d_1_1isdb_1_1_fret_efficiency.html" title="Provides the keyword FRET" alt="" coords="605,1336,795,1361"/>
+<area shape="poly" id="edge36_Node000001_Node000036" title=" " alt="" coords="462,1005,468,1071,486,1157,501,1202,522,1247,548,1288,580,1323,606,1338,603,1342,577,1327,544,1291,517,1249,496,1204,481,1158,463,1071,457,1006"/>
+<area shape="rect" id="Node000037" href="$class_p_l_m_d_1_1isdb_1_1_shadow.html" title="Provides the keyword SHADOW" alt="" coords="623,1385,777,1411"/>
+<area shape="poly" id="edge37_Node000001_Node000037" title=" " alt="" coords="461,1006,464,1079,480,1179,495,1232,516,1283,544,1331,580,1372,601,1385,624,1393,622,1398,598,1390,577,1376,540,1334,511,1286,490,1233,475,1180,459,1080,455,1006"/>
+<area shape="rect" id="Node000038" href="$class_p_l_m_d_1_1maze_1_1_loss.html" title="Provides the keyword &lt;a href=&quot;../../user&#45;doc/html/_&quot;_m_a_z_e__l_o_s_s.html&quot;&gt; &quot;MAZE_LOSS" alt="" coords="630,1435,770,1460"/>
+<area shape="poly" id="edge38_Node000001_Node000038" title=" " alt="" coords="465,1005,479,1099,504,1224,520,1288,538,1345,559,1391,580,1421,604,1436,630,1444,629,1449,601,1441,577,1425,554,1393,533,1347,515,1289,499,1226,474,1100,460,1006"/>
+<area shape="rect" id="Node000039" href="$class_p_l_m_d_1_1maze_1_1_optimizer.html" title="Base class for implementing optimizers for ligand unbinding." alt="" coords="613,1484,787,1509"/>
+<area shape="poly" id="edge39_Node000001_Node000039" title=" " alt="" coords="464,1005,477,1108,501,1249,516,1320,535,1384,557,1436,581,1471,596,1482,613,1489,611,1494,593,1486,577,1475,552,1439,530,1386,511,1321,495,1250,472,1109,459,1006"/>
+<area shape="rect" id="Node000045" href="$class_p_l_m_d_1_1membranefusion_1_1fusion_pore_expansion_p.html" title="Provides the keyword &lt;a href=&quot;../../user&#45;doc/html/_&quot;_f_u_s_i_o_n_p_o_r_e_e_x_p_a_n_s_i_o_n_p...." alt="" coords="611,1534,789,1574"/>
+<area shape="poly" id="edge41_Node000001_Node000045" title=" " alt="" coords="464,1005,475,1116,498,1271,514,1350,533,1422,555,1481,581,1520,595,1532,612,1540,609,1545,592,1536,577,1524,551,1483,528,1424,509,1352,493,1272,470,1117,458,1006"/>
+<area shape="rect" id="Node000046" href="$class_p_l_m_d_1_1membranefusion_1_1fusion_pore_nucleation_p.html" title="Provides the keyword &lt;a href=&quot;../../user&#45;doc/html/_&quot;_f_u_s_i_o_n_p_o_r_e_n_u_c_l_e_a_t_i_o_n_p...." alt="" coords="611,1598,789,1638"/>
+<area shape="poly" id="edge42_Node000001_Node000046" title=" " alt="" coords="463,1006,473,1129,494,1303,510,1392,530,1473,553,1540,566,1565,581,1584,595,1596,612,1604,609,1609,592,1600,577,1588,562,1568,548,1542,524,1474,505,1393,489,1304,468,1129,458,1006"/>
+<area shape="rect" id="Node000047" href="$class_p_l_m_d_1_1membranefusion_1_1mem_fusion_p.html" title="Provides the keyword &lt;a href=&quot;../../user&#45;doc/html/_&quot;_m_e_m_f_u_s_i_o_n_p.html&quot;&gt; &quot;MEMFUSIONP" alt="" coords="611,1662,789,1702"/>
+<area shape="poly" id="edge43_Node000001_Node000047" title=" " alt="" coords="462,1006,471,1140,490,1333,506,1433,526,1524,551,1598,565,1627,581,1648,595,1660,611,1669,609,1673,592,1664,577,1652,560,1629,546,1600,521,1525,501,1434,485,1334,465,1140,457,1006"/>
+<area shape="rect" id="Node000048" href="$class_p_l_m_d_1_1piv_1_1_p_i_v.html" title="Provides the keyword PIV" alt="" coords="643,1727,757,1752"/>
+<area shape="poly" id="edge44_Node000001_Node000048" title=" " alt="" coords="462,1006,468,1152,485,1365,500,1475,521,1575,547,1657,563,1689,581,1712,594,1723,609,1730,643,1738,642,1743,607,1735,591,1727,577,1716,559,1691,542,1659,516,1577,495,1476,480,1365,462,1152,456,1006"/>
+<area shape="rect" id="Node000049" href="$class_p_l_m_d_1_1s2cm_1_1_s2_contact_model.html" title="Provides the keyword S2CM" alt="" coords="592,1776,808,1801"/>
+<area shape="poly" id="edge45_Node000001_Node000049" title=" " alt="" coords="461,1006,466,1161,482,1390,497,1508,517,1616,545,1704,562,1738,581,1763,594,1774,591,1778,577,1767,557,1740,540,1706,512,1617,491,1508,476,1390,460,1161,456,1006"/>
+<area shape="rect" id="Node000050" href="$class_p_l_m_d_1_1sasa_1_1_s_a_s_a___h_a_s_e_l.html" title="Provides the keyword SASA_HASEL" alt="" coords="605,1825,795,1851"/>
+<area shape="poly" id="edge46_Node000001_Node000050" title=" " alt="" coords="461,1006,464,1169,469,1286,479,1413,493,1539,514,1654,528,1705,543,1749,561,1785,581,1812,606,1829,603,1833,577,1816,556,1788,538,1751,523,1707,509,1656,488,1540,473,1413,464,1286,459,1169,456,1006"/>
+<area shape="rect" id="Node000051" href="$class_p_l_m_d_1_1sasa_1_1_s_a_s_a___l_c_p_o.html" title="Provides the keyword SASA_LCPO" alt="" coords="609,1875,791,1900"/>
+<area shape="poly" id="edge47_Node000001_Node000051" title=" " alt="" coords="461,1006,462,1178,467,1302,476,1436,490,1570,512,1693,525,1747,541,1794,560,1833,581,1862,594,1872,609,1880,607,1885,591,1877,577,1865,555,1835,536,1796,520,1749,506,1695,485,1571,470,1437,461,1302,457,1178,456,1006"/>
+<area shape="rect" id="Node000052" href="$class_p_l_m_d_1_1sizeshape_1_1position__linear__proj.html" title="Provides the keyword &lt;a href=&quot;../../user&#45;doc/html/_&quot;_s_i_z_e_s_h_a_p_e__p_o_s_i_t_i_o_n__l_i_n_e_a_r_..." alt="" coords="604,1925,796,1965"/>
+<area shape="poly" id="edge48_Node000001_Node000052" title=" " alt="" coords="461,1006,462,1186,466,1316,475,1458,489,1600,511,1731,524,1788,541,1838,559,1880,581,1911,605,1929,602,1933,577,1915,555,1882,536,1840,519,1790,505,1732,484,1601,469,1458,461,1316,456,1186,456,1006"/>
+<area shape="rect" id="Node000053" href="$class_p_l_m_d_1_1sizeshape_1_1position__maha__dist.html" title="Provides the keyword SIZESHAPE_POSITION_MAHA_DIST" alt="" coords="604,1989,796,2029"/>
+<area shape="poly" id="edge49_Node000001_Node000053" title=" " alt="" coords="463,1006,476,1211,501,1519,517,1676,536,1814,558,1919,569,1954,581,1975,605,1993,602,1998,577,1978,564,1956,552,1920,531,1815,512,1676,495,1520,470,1211,457,1006"/>
+<area shape="rect" id="Node000002" href="$class_p_l_m_d_1_1_action_atomistic.html" title="Action used to create objects that access the positions of the atoms from the MD code." alt="" coords="163,941,334,967"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="348,963,384,968,384,973,348,969"/>
+<area shape="rect" id="Node000003" href="$class_p_l_m_d_1_1_action.html" title="Base class for all the input Actions." alt="" coords="5,967,113,992"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="127,968,163,963,163,968,127,973"/>
+<area shape="rect" id="Node000004" href="$class_p_l_m_d_1_1_action_with_value.html" title="Used to create a PLMD::Action that has some scalar or vectorial output that may or may not have some ..." alt="" coords="161,991,336,1016"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="128,985,161,990,161,995,127,991"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="349,989,384,985,384,990,350,994"/>
+<area shape="rect" id="Node000010" href="$class_p_l_m_d_1_1colvar_1_1_coordination.html" title="Provides the keyword COORDINATION" alt="" coords="869,153,1068,179"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="783,198,898,176,899,181,784,203"/>
+<area shape="rect" id="Node000011" href="$class_p_l_m_d_1_1colvar_1_1_d_h_energy.html" title="Provides the keyword DHENERGY" alt="" coords="879,203,1059,228"/>
+<area shape="poly" id="edge11_Node000009_Node000011" title=" " alt="" coords="829,213,878,213,878,218,829,218"/>
+<area shape="rect" id="Node000012" href="$class_p_l_m_d_1_1colvar_1_1_g_h_b_f_i_x.html" title="Provides the keyword GHBFIX" alt="" coords="886,252,1051,277"/>
+<area shape="poly" id="edge12_Node000009_Node000012" title=" " alt="" coords="784,228,899,249,898,255,783,233"/>
+<area shape="rect" id="Node000022" href="$class_p_l_m_d_1_1colvar_1_1_path_m_s_d.html" title="Provides the keyword PATHMSD" alt="" coords="882,623,1055,648"/>
+<area shape="poly" id="edge22_Node000021_Node000022" title=" " alt="" coords="816,646,881,640,882,646,817,652"/>
+<area shape="rect" id="Node000023" href="$class_p_l_m_d_1_1colvar_1_1_property_map.html" title="Provides the keyword PROPERTYMAP" alt="" coords="869,672,1068,697"/>
+<area shape="poly" id="edge23_Node000021_Node000023" title=" " alt="" coords="817,668,869,673,869,678,816,673"/>
+<area shape="rect" id="Node000040" href="$class_p_l_m_d_1_1maze_1_1_memetic.html" title="Provides the keyword &lt;a href=&quot;../../user&#45;doc/html/_&quot;_m_a_z_e__m_e_m_e_t_i_c__s_a_m_p_l_i_n_g...." alt="" coords="885,1484,1053,1509"/>
+<area shape="poly" id="edge40_Node000039_Node000040" title=" " alt="" coords="801,1494,885,1494,885,1499,801,1499"/>
+</map>
