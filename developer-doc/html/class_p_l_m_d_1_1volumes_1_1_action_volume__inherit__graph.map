@@ -1,0 +1,27 @@
+<map id="PLMD::volumes::ActionVolume" name="PLMD::volumes::ActionVolume">
+<area shape="rect" id="Node000001" title="This is the abstract base class to use for implementing a new way of defining a particular region of ..." alt="" coords="645,129,867,155"/>
+<area shape="rect" id="Node000007" href="$class_p_l_m_d_1_1volumes_1_1_volume_around.html" title="Provides the keyword AROUND_CALC" alt="" coords="927,5,1154,31"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="782,118,841,78,876,57,914,40,950,28,952,33,916,44,879,62,843,82,786,123"/>
+<area shape="rect" id="Node000008" href="$class_p_l_m_d_1_1volumes_1_1_volume_cavity.html" title="Provides the keyword CAVITY_CALC" alt="" coords="929,55,1152,80"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="805,122,914,89,965,77,966,83,915,94,806,127"/>
+<area shape="rect" id="Node000009" href="$class_p_l_m_d_1_1volumes_1_1_volume_in_cylinder.html" title="Provides the keyword INCYLINDER_CALC" alt="" coords="917,104,1164,129"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="880,128,917,125,918,130,880,134"/>
+<area shape="rect" id="Node000010" href="$class_p_l_m_d_1_1volumes_1_1_volume_in_envelope.html" title="Provides the keyword INENVELOPE_CALC" alt="" coords="915,153,1167,179"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="880,150,915,153,914,158,880,155"/>
+<area shape="rect" id="Node000011" href="$class_p_l_m_d_1_1volumes_1_1_volume_in_sphere.html" title="Provides the keyword INSPHERE_CALC" alt="" coords="922,203,1159,228"/>
+<area shape="poly" id="edge12_Node000001_Node000011" title=" " alt="" coords="810,156,915,187,971,200,970,205,914,193,808,162"/>
+<area shape="rect" id="Node000012" href="$class_p_l_m_d_1_1volumes_1_1_volume_tetrapore.html" title="Provides the keyword TETRAHEDRALPORE_CALC" alt="" coords="920,252,1161,277"/>
+<area shape="poly" id="edge13_Node000001_Node000012" title=" " alt="" coords="786,161,843,201,879,221,916,238,952,249,950,254,914,243,876,226,841,205,783,165"/>
+<area shape="rect" id="Node000002" href="$class_p_l_m_d_1_1_action_with_vector.html" title=" " alt="" coords="419,129,597,155"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="611,139,645,139,645,145,611,145"/>
+<area shape="rect" id="Node000003" href="$class_p_l_m_d_1_1_action_atomistic.html" title="Action used to create objects that access the positions of the atoms from the MD code." alt="" coords="181,80,351,105"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="343,106,445,127,444,132,342,111"/>
+<area shape="rect" id="Node000004" href="$class_p_l_m_d_1_1_action.html" title="Base class for all the input Actions." alt="" coords="5,129,113,155"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="123,123,161,114,208,103,209,108,162,119,124,129"/>
+<area shape="rect" id="Node000005" href="$class_p_l_m_d_1_1_action_with_value.html" title="Used to create a PLMD::Action that has some scalar or vectorial output that may or may not have some ..." alt="" coords="179,129,353,155"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="127,139,178,139,178,145,127,145"/>
+<area shape="rect" id="Node000006" href="$class_p_l_m_d_1_1_action_with_arguments.html" title=" " alt="" coords="161,179,371,204"/>
+<area shape="poly" id="edge7_Node000006_Node000004" title=" " alt="" coords="127,155,213,176,211,181,126,160"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="367,139,419,139,419,145,367,145"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="342,173,444,152,445,157,343,178"/>
+</map>
